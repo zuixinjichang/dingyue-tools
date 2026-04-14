@@ -95,7 +95,7 @@
 **支持平台**：Windows / macOS / Linux / Android / iOS  
 **支持协议**：多种协议。  
 **优点**：配置同步方便。  
-**下载地址**： GitHub Releases 或 App Store
+**下载地址**： [Karing Releases](https://github.com/KaringX/karing/releases)
 
 ---
 
@@ -103,23 +103,27 @@
 ## Windows平台
 
 ### 1. Clash Verge Rev
-**特点**：跨平台 Clash.Meta 客户端，Windows 上表现优秀。  
+**特点**：现代化 Clash.Meta（Mihomo）客户端，Windows 上表现优秀。  
 **下载地址**： [Clash Verge Rev Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-### 2. Mihomo Party / FlClash
-**特点**：简洁高效的 Mihomo 客户端或 Fluent UI 风格客户端。  
-**下载地址**：对应 Releases 页面。
+### 2. Mihomo Party
+**特点**：简洁高效的 Mihomo 客户端，支持一键导入订阅。  
+**下载地址**： [Mihomo Party Releases](https://github.com/mihomo-party-org/clash-party/releases)
 
-### 3. V2RayN
+### 3. FlClash
+**特点**：Fluent UI 风格的跨平台 Clash.Meta 客户端，界面现代化。  
+**下载地址**： [FlClash Releases](https://github.com/chen08209/FlClash/releases)
+
+### 4. V2RayN
 **特点**：最常用的 V2Ray Windows 客户端，轻量级，配置简单，支持订阅自动更新、系统托盘快速切换。  
 **支持协议**：VMess、VLESS、Trojan 等。  
 **下载地址**： [V2RayN Releases](https://github.com/2dust/v2rayN/releases)
 
-### 4. NekoRay
+### 5. NekoRay
 **特点**：基于 Qt 的跨平台代理客户端，支持订阅管理、规则分流。  
 **下载地址**： [NekoRay Releases](https://github.com/MatsuriDayo/nekoray/releases)
 
-### 5. Clash for Windows（汉化版）
+### 6. Clash for Windows（汉化版）
 **特点**：汉化版的 Windows Clash 客户端，功能完整。  
 **下载地址**： [Clash for Windows Releases](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)
 
@@ -128,23 +132,31 @@
 <span id="macos"></span>
 ## macOS平台
 
-### 1. Clash Verge Rev / FlClash / Mihomo Party
-**特点**：跨平台客户端在 macOS 上运行良好。  
-**下载地址**：对应 Releases 页面。
+### 1. Clash Verge Rev
+**特点**：现代化 Clash.Meta 客户端，在 macOS 上运行良好。  
+**下载地址**： [Clash Verge Rev Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-### 2. ClashX
+### 2. FlClash
+**特点**：Fluent UI 风格的跨平台 Clash.Meta 客户端。  
+**下载地址**： [FlClash Releases](https://github.com/chen08209/FlClash/releases)
+
+### 3. Mihomo Party
+**特点**：简洁高效的 Mihomo 客户端。  
+**下载地址**： [Mihomo Party Releases](https://github.com/mihomo-party-org/clash-party/releases)
+
+### 4. ClashX
 **特点**：经典的 macOS Clash 客户端，原生体验，支持菜单栏快速操作、系统代理、规则分流。  
 **下载地址**： [ClashX Releases](https://github.com/githubvpn007/ClashX/releases)
 
-### 3. Stash
+### 5. Stash
 **特点**：Clash 规则完美适配的 macOS/iOS 客户端，支持高级规则。  
-**下载地址**： App Store 或 TestFlight
+**下载地址**： App Store（搜索 Stash）
 
-### 4. Surge
+### 6. Surge
 **特点**：付费专业级规则工具，功能强大，适合重度用户。  
-**下载地址**： App Store 或官网
+**下载地址**： App Store（搜索 Surge）
 
-### 5. V2RayU
+### 7. V2RayU
 **特点**：macOS 平台的 V2Ray 客户端，界面简洁，支持订阅功能、菜单栏快速切换。  
 **下载地址**： [V2RayU Releases](https://github.com/yanue/V2RayU/releases)
 
@@ -157,11 +169,15 @@
 **特点**：跨平台 Clash 客户端，Linux 支持完善，提供 AppImage 格式。  
 **下载地址**： [Clash Verge Rev Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-### 2. FlClash / Mihomo Party
-**特点**：现代化跨平台客户端。  
-**下载地址**：对应 Releases 页面。
+### 2. FlClash
+**特点**：Fluent UI 风格的跨平台 Clash.Meta 客户端。  
+**下载地址**： [FlClash Releases](https://github.com/chen08209/FlClash/releases)
 
-### 3. NekoRay
+### 3. Mihomo Party
+**特点**：简洁高效的 Mihomo 客户端。  
+**下载地址**： [Mihomo Party Releases](https://github.com/mihomo-party-org/clash-party/releases)
+
+### 4. NekoRay
 **特点**：基于 Qt 的跨平台代理客户端。  
 **下载地址**： [NekoRay Releases](https://github.com/MatsuriDayo/nekoray/releases)
 
@@ -170,23 +186,27 @@
 <span id="android"></span>
 ## Android平台
 
-### 1. Hiddify Next / Karing
+### 1. Hiddify Next
 **特点**：一站式多协议客户端，支持新协议，界面友好。  
 **下载地址**： [Hiddify Next Releases](https://github.com/hiddify/hiddify-next/releases)
 
-### 2. ClashMeta for Android
+### 2. Karing
+**特点**：全平台同步节点，可作为 Singbox/Clash 前端。  
+**下载地址**： [Karing Releases](https://github.com/KaringX/karing/releases)
+
+### 3. ClashMeta for Android
 **特点**：安卓上的 Clash.Meta 官方 GUI 客户端，支持规则分流、订阅管理。  
 **下载地址**： [ClashMeta for Android Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-### 3. V2RayNG
+### 4. V2RayNG
 **特点**：Android 上最常用的 V2Ray 客户端，轻量级，省电省内存，支持订阅功能。  
 **下载地址**： [V2RayNG Releases](https://github.com/2dust/v2RayNG/releases)
 
-### 4. NekoBox for Android
+### 5. NekoBox for Android
 **特点**：轻量、界面简洁的 Android 客户端，支持多协议。  
 **下载地址**： [NekoBox for Android Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
-### 5. Sing-box for Android
+### 6. Sing-box for Android
 **特点**：下一代代理内核客户端，支持 Hysteria2、TUIC、Reality 等新协议。  
 **下载地址**： [Sing-box Releases](https://github.com/SagerNet/sing-box/releases)
 
@@ -205,15 +225,15 @@
 
 ### 3. Stash（付费）
 **特点**：Clash 规则完美适配，支持高级规则配置。  
-**下载地址**： App Store
+**下载地址**： App Store（搜索 Stash）
 
 ### 4. Surge（付费）
 **特点**：专业级规则工具，功能强大。  
-**下载地址**： App Store
+**下载地址**： App Store（搜索 Surge）
 
 ### 5. Loon（付费）
 **特点**：规则强大，支持脚本。  
-**下载地址**： App Store
+**下载地址**： App Store（搜索 Loon）
 
 ### 6. SingBox（官方版）
 **特点**：Sing-Box 官方 iOS 客户端，支持新协议，界面简洁，性能优秀，免费使用。  
